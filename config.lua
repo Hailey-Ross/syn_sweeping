@@ -22,7 +22,6 @@ Config.cleancompany = {
         npcmodel = "CS_PrincessIsabeau",
     },
 }
---SWEEPING ANIMATION -- WORLD_HUMAN_BROOM_WORKING
 Config.cleanmissions = {
     blackwatersweep = {
         materialpickup = {x= -840.14, y=-1348.91, z=44.2},
@@ -35,23 +34,6 @@ Config.cleanmissions = {
 		{x= -806.68, y=-1325.52, z=43.4, wa= 'WORLD_HUMAN_BROOM_WORKING'}, --Saloon
         }
     },
-    --[[val = {
-        materialpickup = {x= -338.27, y=820.2, z=117.52},
-        reward = 12, 
-        workspots = {
-            {x= -361.40, y=792.8, z=116.19, wa= 'PROP_HUMAN_REPAIR_WAGON_WHEEL_ON_SMALL'},
-            {x= -324.77, y=809.84, z=117.40, wa= 'PROP_HUMAN_REPAIR_WAGON_WHEEL_ON_SMALL'},
-            {x= -294.33, y=826.015, z=119.7, wa= 'PROP_HUMAN_REPAIR_WAGON_WHEEL_ON_SMALL'},
-            {x= -301.95, y=845.45, z=119.88, wa= 'PROP_HUMAN_REPAIR_WAGON_WHEEL_ON_SMALL'},
-
-            {x= -313.52, y=737.87, z=117.9, wa= 'PROP_HUMAN_REPAIR_WAGON_WHEEL_ON_SMALL'},
-            {x= -266.80, y=742.8, z=117.44, wa= 'PROP_HUMAN_REPAIR_WAGON_WHEEL_ON_SMALL'},
-            {x= -234.89, y=771.425, z=117.88, wa= 'PROP_HUMAN_REPAIR_WAGON_WHEEL_ON_SMALL'},
-            {x= -232.97, y=748.85, z=117.74, wa= 'PROP_HUMAN_REPAIR_WAGON_WHEEL_ON_SMALL'},
-
-        }
-    },]]
-
 }
 
 Config.CleanLanguage = {
