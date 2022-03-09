@@ -48,11 +48,8 @@ dosomework = "Cleaning Location",
 startconst = "Press G to start Cleaning",
 finishedtasks = "Finished cleaning for the day, head back to the Manager",
 finishwork = "Clock Out",
-messedup = "You make a mess and have to start over",
+messedup = "You make a mess and must start over",
 paid = "You get paid $ ",
-nowork = "Your work wasn't sufficient to be paid for.",
+nowork = "Your work wasn't sufficient to get paid.",
 }
 
-
-
-------------exports["syn_minigame"]:taskBar(1200,7)
