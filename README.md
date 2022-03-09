@@ -6,3 +6,4 @@ Converted version of syn_construction for Poison Meadows RP
 - VORP-Inventory
 - VORP-Character
 - syn_construction
+- syn_minigame
