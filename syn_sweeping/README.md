@@ -13,5 +13,4 @@ This script is provided as-is. Your performance may vary.
 - syn_minigame
 
 ## Installation
-- ## Installation
 - See [MAIN Readme](https://github.com/Hailey-Ross/RedM-Syn_Jobs/blob/main/README.md) File!
