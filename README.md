@@ -1,5 +1,5 @@
 # Philanthropist Job
-Simply a converted version of syn_construction for Poison Meadows RP.  
+Simply a converted version of syn_construction for [Poison Meadows RP](https://discord.gg/JcPXMkqrh6)  
 All credit goes to [Blue](https://github.com/kamelzarandah) for creating the original Resource
 
 ## Dependencies:
