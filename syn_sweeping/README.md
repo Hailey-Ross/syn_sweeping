@@ -1,6 +1,8 @@
 # Philanthropist Job
-Simply a converted version of syn_construction for [Poison Meadows RP](https://discord.gg/JcPXMkqrh6)  
-All credit goes to [Blue](https://github.com/kamelzarandah) for creating the original Resource
+Original Construction Script Created by [Blue](https://github.com/kamelzarandah) with edits by [Hailey](https://github.com/Hailey-Ross) for Poison Meadows RP.  
+All Credit goes to [Blue](https://github.com/kamelzarandah).  
+
+This script is provided as-is. Your performance may vary.
 
 ## Dependencies:
 - [VORP-CORE](https://github.com/VORPCORE/VORP-Core)
