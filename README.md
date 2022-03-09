@@ -13,7 +13,7 @@ These scripts are provided as-is. Your performance may vary.
 - See Individual Folders for more info
 
 ## Installation
-- Stop your Server
+- Stop your CFX Server
 - Download the lastest version of this Repository
 - Copy and paste both `syn_construction` & `syn_sweeping` somewhere into `Resources`
 - Add `ensure syn_construction` & `ensure syn_sweeping` to your `server.cfg` file
