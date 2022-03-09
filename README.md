@@ -1,4 +1,4 @@
-# Philanthropy Jobs
+# Syn Jobs
 Original Script by [Blue](https://github.com/kamelzarandah) edited by Hailey for Poison Meadows RP.  
 All Credit goes to [Blue](https://github.com/kamelzarandah).
 
