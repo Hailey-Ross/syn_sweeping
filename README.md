@@ -10,7 +10,7 @@ These scripts are provided as-is. Your performance may vary.
 - [VORP-Character](https://github.com/VORPCORE/VORP-Character)
 - syn_inputs
 - syn_minigame
-- [syn_construction](https://github.com/Hailey-Ross/RedM-Syn_Jobs/tree/main/syn_construction) *Requires the server.lua to run syn_sweeping*
+- [syn_construction](https://github.com/Hailey-Ross/RedM-Syn_Jobs/tree/main/syn_construction) *Copy the server.lua to run syn_sweeping standalone*
 
 ## Installation
 - Stop your CFX Server
