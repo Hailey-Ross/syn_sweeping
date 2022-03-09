@@ -13,11 +13,5 @@ This script is provided as-is. Your performance may vary.
 - syn_minigame
 
 ## Installation
-- Stop your Server
-- Download the lastest version of syn_sweeping
-- Copy and paste the `syn_sweeping` folder somewhere into `Resources`
-- Add `ensure syn_sweeping` to your `server.cfg` file
-- Change any desired settings in `config.lua`
-- If you are already running `syn_construction` skip the next step.
-- Run the query provided in `runme.sql` into your Database
-- Start your server
+- ## Installation
+- See [MAIN Readme](https://github.com/Hailey-Ross/RedM-Syn_Jobs/blob/main/README.md) File!
