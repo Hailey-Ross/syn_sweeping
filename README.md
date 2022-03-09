@@ -16,5 +16,6 @@ All credit goes to [Blue](https://github.com/kamelzarandah) for creating the ori
 - Copy and paste the `syn_sweeping` folder somewhere into `Resources`
 - Add `ensure syn_sweeping` to your `server.cfg` file
 - Change any desired settings in `config.lua`
+- If you are already running `syn_construction` skip the next step.
 - Run the query provided in `runme.sql` into your Database
 - Start your server
