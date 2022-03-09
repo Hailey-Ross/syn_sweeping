@@ -1,5 +1,5 @@
 # Syn Jobs
-Original Script by [Blue](https://github.com/kamelzarandah) edited by Hailey for Poison Meadows RP.  
+Original Construction Script Created by [Blue](https://github.com/kamelzarandah) with edits by [Hailey](https://github.com/Hailey-Ross) for Poison Meadows RP.  
 All Credit goes to [Blue](https://github.com/kamelzarandah).  
 
 This script is provided as-is. Your performance may vary.
