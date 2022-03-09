@@ -14,8 +14,8 @@ These scripts are provided as-is. Your performance may vary.
 
 ## Installation
 - Stop your CFX Server
-- Download the lastest version of this Repository
-- Copy and paste both `syn_construction` & `syn_sweeping` somewhere into `Resources`
+- `cd C:\redm\server-data\resources\` or wherever your Resources Folder is located
+- `git clone https://github.com/Hailey-Ross/RedM-Syn_Jobs .` Copy this Repo
 - Add `ensure syn_construction` & `ensure syn_sweeping` to your `server.cfg` file
 - Change any desired settings in both `config.lua` files
 - Run the query provided in `runme.sql` to update your `Characters` Table
