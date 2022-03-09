@@ -9,3 +9,8 @@ All credit goes to [Blue](https://github.com/kamelzarandah) for creating the ori
 - syn_inputs
 - syn_construction
 - syn_minigame
+
+## Install:
+- Download the lastest version of syn_sweeping
+- Copy and paste syn_sweeping folder to resources/syn_sweeping
+- Add ensure syn_sweeping to your server.cfg file
