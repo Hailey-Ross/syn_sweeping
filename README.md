@@ -11,9 +11,10 @@ All credit goes to [Blue](https://github.com/kamelzarandah) for creating the ori
 - syn_minigame
 
 ## Installation
+- Stop your Server
 - Download the lastest version of syn_sweeping
 - Copy and paste the `syn_sweeping` folder somewhere into `Resources`
 - Add `ensure syn_sweeping` to your `server.cfg` file
 - Change any desired settings in `config.lua`
-- Run the `runme.SQL` file into your Database
-- Restart your server
+- Run the `runme.sql` file into your Database
+- Start your server
