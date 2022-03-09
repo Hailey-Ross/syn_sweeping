@@ -1,5 +1,6 @@
 # syn_sweeping
-Converted version of syn_construction for Poison Meadows RP
+Simply a converted version of syn_construction for Poison Meadows RP.  
+All credit goes to [Blue](https://github.com/kamelzarandah) for creating the original Resource
 
 ## Dependencies:
 - [VORP-CORE](https://github.com/VORPCORE/VORP-Core)
