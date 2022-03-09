@@ -16,4 +16,4 @@ All credit goes to [Blue](https://github.com/kamelzarandah) for creating the ori
 - Add `ensure syn_sweeping` to your `server.cfg` file
 - Change any desired settings in `config.lua`
 - Run the `runme.SQL` file into your Database
-- Either `refresh` via F8 or Restart your server
+- Restart your server
