@@ -12,10 +12,4 @@ This script is provided as-is. Your performance may vary.
 - syn_minigame
 
 ## Installation
-- Stop your Server
-- Download the lastest version of syn_construction
-- Copy and paste the `syn_construction` folder somewhere into `Resources`
-- Add `ensure syn_construction` to your `server.cfg` file
-- Change any desired settings in `config.lua`
-- Run the query provided in `runme.sql` into your Database
-- Start your server
+- See [MAIN Readme](https://github.com/Hailey-Ross/RedM-Syn_Jobs/blob/main/README.md) File!
