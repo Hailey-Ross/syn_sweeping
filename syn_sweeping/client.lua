@@ -74,7 +74,7 @@ Citizen.CreateThread(function()
                             --Citizen.InvokeNative(0xEA47FE3719165B94, player,"mech_carry_box", "idle", 1.0, 8.0, -1, 31, 0, 0, 0, 0)
                             --Citizen.InvokeNative(0x6B9BBD38AB0796DF, prop,player,GetEntityBoneIndexByName(player,"SKEL_R_Finger12"), 0.20, 0.028, -0.15, 100.0, 205.0, 20.0, true, true, false, true, 1, true)
 							--Citizen.InvokeNative(0xEA47FE3719165B94, player,"mech_carry_box", "idle", 1.0, 8.0, -1, 31, 0, 0, 0, 0)
-                            Citizen.InvokeNative(0x6B9BBD38AB0796DF, prop,player,GetEntityBoneIndexByName(player,"SKEL_R_Finger12"), 0.45, 0.0, 0.4, 0.0, 230.0, 25.0, true, true, false, true, 1, true)
+                            Citizen.InvokeNative(0x6B9BBD38AB0796DF, prop,player,GetEntityBoneIndexByName(player,"SKEL_R_Finger12"), 0.49, 0.0, 0.52, 0.0, 225.0, 35.0, true, true, false, true, 1, true)
                             attached = true 
                             RemoveBlip(missionblip)
                             ClearGpsCustomRoute()
