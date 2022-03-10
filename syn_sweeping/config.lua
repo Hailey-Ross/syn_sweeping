@@ -28,11 +28,11 @@ Config.cleanmissions = {
         materialpickup = {x= -840.14, y=-1348.91, z=44.2},
         reward = 12, -- depending on tasks done and if the player failed skill checks
         workspots = {
-            {x= -869.09, y=-1331.09, z=43.81, wa= 'WORLD_HUMAN_BROOM_WORKING'}, --Gunsmith
-			{x= -853.73, y=-1359.39, z=43.4, wa= 'WORLD_HUMAN_BROOM_WORKING'}, --Corner of Stables
-            {x= -854.43, y=-1375.37, z=43.4, wa= 'WORLD_HUMAN_BROOM_WORKING'}, --Lumber Store
-            {x= -843.13, y=-1373.69, z=43.4, wa= 'WORLD_HUMAN_BROOM_WORKING'}, --Wood Shop
-			{x= -806.68, y=-1325.52, z=43.4, wa= 'WORLD_HUMAN_BROOM_WORKING'}, --Saloon
+        	{x= -869.09, y=-1331.09, z=43.81, wa= 'WORLD_HUMAN_BROOM_WORKING'}, --Gunsmith
+		{x= -853.73, y=-1359.39, z=43.4, wa= 'WORLD_HUMAN_BROOM_WORKING'}, --Corner of Stables
+        	{x= -854.43, y=-1375.37, z=43.4, wa= 'WORLD_HUMAN_BROOM_WORKING'}, --Lumber Store
+        	{x= -843.13, y=-1373.69, z=43.4, wa= 'WORLD_HUMAN_BROOM_WORKING'}, --Wood Shop
+		{x= -806.68, y=-1325.52, z=43.4, wa= 'WORLD_HUMAN_BROOM_WORKING'}, --Saloon
         }
     },
 
