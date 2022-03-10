@@ -29,7 +29,6 @@ Config.constructioncompany = {
         npcmodel = "U_M_M_CKTManager_01",
     },
 }
---SWEEPING ANIMATION -- WORLD_HUMAN_BROOM_WORKING
 Config.missions = {
     blackwater = {
         materialpickup = {x= -841.58, y=-1260.55, z=43.48},
