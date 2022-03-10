@@ -16,18 +16,18 @@ Config.keys = {
 Config.constructioncompany = {
     blackwater = {
         Pos = {x= -854.18, y=-1288.84, z=43.29, h=-89.49}, -- location 
-		blipsprite = 2107754879, -- blip sprite 
+	blipsprite = 2107754879, -- blip sprite 
         showblip = true, -- show blip or not 
         Name = 'Blackwater Construction', -- blip name 
         npcmodel = "U_M_M_CKTManager_01",
     },
-    --[[val = {
+    val = {
         Pos = {x= -339.6, y=796.82, z=116.6, h = 150.07}, -- location 
-		blipsprite = 2107754879, -- blip sprite 
+	blipsprite = 2107754879, -- blip sprite 
         showblip = false, -- show blip or not 
         Name = 'Valentine Construction', -- blip name 
         npcmodel = "U_M_M_CKTManager_01",
-    },]]
+    },
 }
 --SWEEPING ANIMATION -- WORLD_HUMAN_BROOM_WORKING
 Config.missions = {
@@ -64,15 +64,15 @@ Config.Language = {
 constructionmenu = "Press G To Open Construction Menu",
 construction = "Construction",
 startjob = "Start Job",
-trust = "Trust: ",
+trust = "Exp: ",
 marked = "Go To Marked Location",
 pickup = "Material Pickup",
 pressgtopickup = "Press G To Pickup Materials",
 dosomework = "Work Location",
 startconst = "Press G To Start Construction",
-finishedtasks = "Finished Your Work for The Day, Head Back to the Foreman",
-finishwork = "Sign Out",
-messedup = "You Messed Up The Task",
-paid = "You Got Paid $ ",
-nowork = "You Didnt Do Enough Work To Get Paid",
+finishedtasks = "Finished all the work for this shift, Visit the Foreman for payment.",
+finishwork = "Clock Out",
+messedup = "You messed up the task",
+paid = "You get paid $ ",
+nowork = "You didn't do enough work to be paid for.",
 }
