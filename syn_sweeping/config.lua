@@ -16,7 +16,7 @@ Config.keys = {
 Config.cleancompany = {
     blackwatersweep = {
         Pos = {x= -840.61, y=-1359.88, z=43.5, h=100.0}, -- location 
-		blipsprite = -699499938, -- blip sprite 
+	blipsprite = -699499938, -- blip sprite 
         showblip = true, -- show blip or not 
         Name = 'Philanthropist Society', -- blip name 
         npcmodel = "CS_PrincessIsabeau",
