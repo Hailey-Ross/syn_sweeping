@@ -22,5 +22,5 @@ These scripts are provided as-is. Your performance may vary.
 *Keep the period at the end!*
 - Add `ensure syn_construction` & `ensure syn_sweeping` to your `server.cfg` file
 - Change any desired settings in both `config.lua` files
-- Run the query provided in `runme.sql` to update your `Characters` Table
+- Run the query provided in `runme_construction.sql` to update your `Characters` Table
 - Start your server
