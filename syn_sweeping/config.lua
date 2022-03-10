@@ -21,13 +21,6 @@ Config.cleancompany = {
         Name = 'Philanthropist Society', -- blip name 
         npcmodel = "CS_PrincessIsabeau",
     },
-    --[[val = {
-        Pos = {x= -339.6, y=796.82, z=116.6, h = 150.07}, -- location 
-		blipsprite = 2107754879, -- blip sprite 
-        showblip = false, -- show blip or not 
-        Name = 'Valentine Construction', -- blip name 
-        npcmodel = "U_M_M_CKTManager_01",
-    },]]
 }
 --SWEEPING ANIMATION -- WORLD_HUMAN_BROOM_WORKING
 Config.cleanmissions = {
@@ -42,23 +35,6 @@ Config.cleanmissions = {
 			{x= -806.68, y=-1325.52, z=43.4, wa= 'WORLD_HUMAN_BROOM_WORKING'}, --Saloon
         }
     },
-    --[[val = {
-        materialpickup = {x= -338.27, y=820.2, z=117.52},
-        reward = 12, 
-        workspots = {
-            {x= -361.40, y=792.8, z=116.19, wa= 'PROP_HUMAN_REPAIR_WAGON_WHEEL_ON_SMALL'},
-            {x= -324.77, y=809.84, z=117.40, wa= 'PROP_HUMAN_REPAIR_WAGON_WHEEL_ON_SMALL'},
-            {x= -294.33, y=826.015, z=119.7, wa= 'PROP_HUMAN_REPAIR_WAGON_WHEEL_ON_SMALL'},
-            {x= -301.95, y=845.45, z=119.88, wa= 'PROP_HUMAN_REPAIR_WAGON_WHEEL_ON_SMALL'},
-
-            {x= -313.52, y=737.87, z=117.9, wa= 'PROP_HUMAN_REPAIR_WAGON_WHEEL_ON_SMALL'},
-            {x= -266.80, y=742.8, z=117.44, wa= 'PROP_HUMAN_REPAIR_WAGON_WHEEL_ON_SMALL'},
-            {x= -234.89, y=771.425, z=117.88, wa= 'PROP_HUMAN_REPAIR_WAGON_WHEEL_ON_SMALL'},
-            {x= -232.97, y=748.85, z=117.74, wa= 'PROP_HUMAN_REPAIR_WAGON_WHEEL_ON_SMALL'},
-
-        }
-    },]]
-
 }
 
 Config.CleanLanguage = {
@@ -77,7 +53,3 @@ messedup = "You make a mess and have to start over",
 paid = "You get paid $ ",
 nowork = "Your work wasn't sufficient to be paid for.",
 }
-
-
-
-------------exports["syn_minigame"]:taskBar(1200,7)
