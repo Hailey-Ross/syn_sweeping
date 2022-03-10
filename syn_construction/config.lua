@@ -74,5 +74,5 @@ finishedtasks = "Finished all the work for this shift, Visit the Foreman for pay
 finishwork = "Clock Out",
 messedup = "You messed up the task",
 paid = "You get paid $ ",
-nowork = "You didn't do enough work to be paid for.",
+nowork = "Your work wasn't enough to be paid for.",
 }
