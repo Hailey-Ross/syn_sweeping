@@ -8,7 +8,7 @@ These scripts are provided as-is. Your performance may vary.
 - [VORP-CORE](https://github.com/VORPCORE/VORP-Core)
 - [VORP-Inventory](https://github.com/VORPCORE/VORP-Inventory)
 - [VORP-Character](https://github.com/VORPCORE/VORP-Character)
-- [syn_inputs](https://discord.com/channels/777290543406776341/777295888543645716)
+- [VORP-Inputs](https://github.com/VORPCORE/VORP-Inputs)
 - [syn_minigame](https://discord.com/channels/777290543406776341/777295888543645716)
 - [syn_construction](https://github.com/Hailey-Ross/RedM-Syn_Jobs/tree/main/syn_construction) *Copy the server.lua to run syn_sweeping standalone*
 
