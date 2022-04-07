@@ -268,7 +268,7 @@ end
 Citizen.CreateThread(function()
     Citizen.Wait(1000)
 	for k,v in pairs(Config.cleancompany) do 
-        if Config.cleancompany.showblip == true then
+        if v.showblip == true then
 		    local blip = N_0x554d9d53f696d002(1664425300, v.Pos.x, v.Pos.y, v.Pos.z)
     	    SetBlipSprite(blip, v.blipsprite, 1)
     	    SetBlipScale(blip, 0.2)
@@ -291,23 +291,23 @@ Citizen.CreateThread(function()
             FreezeEntityPosition(npc, true) -- NPC can't escape
             SetBlockingOfNonTemporaryEvents(npc, true) -- NPC can't be scared
             table.insert(jobpeds, npc)
-    else
-        local hashModel = GetHashKey(v.npcmodel) 
-        if IsModelValid(hashModel) then 
-            RequestModel(hashModel)
-            while not HasModelLoaded(hashModel) do                
-                Wait(100)
+        else
+            local hashModel = GetHashKey(v.npcmodel) 
+            if IsModelValid(hashModel) then 
+                RequestModel(hashModel)
+                while not HasModelLoaded(hashModel) do                
+                    Wait(100)
+                end
             end
-        end
-        local npc = CreatePed(hashModel, v.Pos.x, v.Pos.y, v.Pos.z - 1.0,v.Pos.h, false, true, true, true)
-        Citizen.InvokeNative(0x283978A15512B2FE, npc, true) -- SetRandomOutfitVariation
-        SetEntityNoCollisionEntity(PlayerPedId(), npc, false)
-        SetEntityCanBeDamaged(npc, false)
-        SetEntityInvincible(npc, true)
-        Wait(1000)
-        FreezeEntityPosition(npc, true) -- NPC can't escape
-        SetBlockingOfNonTemporaryEvents(npc, true) -- NPC can't be scared
-        table.insert(jobpeds, npc)
+            local npc = CreatePed(hashModel, v.Pos.x, v.Pos.y, v.Pos.z - 1.0,v.Pos.h, false, true, true, true)
+            Citizen.InvokeNative(0x283978A15512B2FE, npc, true) -- SetRandomOutfitVariation
+            SetEntityNoCollisionEntity(PlayerPedId(), npc, false)
+            SetEntityCanBeDamaged(npc, false)
+            SetEntityInvincible(npc, true)
+            Wait(1000)
+            FreezeEntityPosition(npc, true) -- NPC can't escape
+            SetBlockingOfNonTemporaryEvents(npc, true) -- NPC can't be scared
+            table.insert(jobpeds, npc)
         end
 	end
 end)
@@ -318,7 +318,7 @@ Citizen.CreateThread(function()
         local coords = GetEntityCoords(player)
         local sleep = true 
         for k, v in pairs(Config.cleancompany) do
-            if GetDistanceBetweenCoords(coords, v.Pos.x, v.Pos.y, v.Pos.z, true) < 5 and not inmenu then
+            if GetDistanceBetweenCoords(coords, v.Pos.x, v.Pos.y, v.Pos.z, true) < 2 and not inmenu then
                 sleep = false
                 DrawText3D(v.Pos.x, v.Pos.y, v.Pos.z, Config.CleanLanguage.constructionmenu)
                 if IsControlJustReleased(0, Config.keys["G"]) then
