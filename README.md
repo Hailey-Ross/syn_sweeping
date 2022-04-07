@@ -20,9 +20,9 @@ These scripts are provided as-is. Your performance may vary.
 **Windows** `cd C:\redm\server-data\resources\`  
 **Linux** `cd ~/redm/server-data/resources/`
 - Clone this Repository into the directory you chose:  
-`git clone https://github.com/Hailey-Ross/RedM-Syn_Jobs .`  
+`git clone https://github.com/Hailey-Ross/syn_sweeping .`  
 *Keep the period at the end!*
-- Add `ensure syn_construction` & `ensure syn_sweeping` to your `server.cfg` file
-- Change any desired settings in both `config.lua` files
-- Run the query provided in `runme_construction.sql` to update your `Characters` Table
+- Add `ensure syn_sweeping` to your `server.cfg` file
+- Change any desired settings in `config.lua` file
+- Run the query provided in `runme.sql` to update your `Characters` Table
 - Start your server
