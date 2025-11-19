@@ -18,7 +18,6 @@ This script is provided as-is. Your performance may vary.
 - This resource in its current form does not play well with syn_construction
 
 ## Installation
-- Stop your CFX Server
 - Go to your Resources Folder in Terminal  
 **Windows** `cd C:\redm\server-data\resources\`  
 **Linux** `cd ~/redm/server-data/resources/`
@@ -28,4 +27,5 @@ This script is provided as-is. Your performance may vary.
 - Add `ensure syn_sweeping` to your `server.cfg` file
 - Change any desired settings in `config.lua` file
 - Run the query provided in `runme.sql` to update your `Characters` Table
+- Stop your CFX Server
 - Start your server
